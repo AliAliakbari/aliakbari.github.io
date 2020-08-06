@@ -1,9 +1,6 @@
 ### Resume
 ```
-
-![Logo](https://github.com/mohammadkad/mohammadkad.github.io/raw/master/pic.png)
-
----
+--
 Name :Ali Aliakbari Dehkordi
 TEL  : 09131842371
 Mail : akbari_al6446@yahoo.com<br/>
